@@ -6,6 +6,6 @@ Undertake appropriate methods in order to explore, understand, and analyse the d
 
 In this case, the datset was accessed from
 https://archive.ics.uci.edu/dataset/555/apartment+for+rent+classified
-, whichi contains of 10'000 or 100'000 rows and of 22 columns
+, which contains of 10'000 or 100'000 rows and of 22 columns
 
 To learn out more please check out the jupyter notebook in the repository.
